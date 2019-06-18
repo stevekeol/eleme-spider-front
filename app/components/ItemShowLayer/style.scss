@@ -1,0 +1,28 @@
+/*
+ * @file style for component ItemShowLayer
+ */
+
+.item-show-layer-component {
+  padding: 10px;
+  position: relative;
+  box-shadow: 0px 0px 20px  #888888;
+
+  .no-select {
+    font-size: 30px;
+    height: 300px;
+    line-height: 300px;
+    color: #ccc;
+    text-align: center;
+  }
+
+  .control-area {
+    position: absolute;
+    top: 10px;
+    right: 0;
+
+    button {
+      display: inline-block;
+      margin: 0 10px;
+    }
+  }
+}

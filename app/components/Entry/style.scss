@@ -1,0 +1,51 @@
+/*
+ * @file style for component Deskmark
+ */
+
+.deskmark-component {
+	background-color: '#ECECEC';
+  .container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+.leftNav {
+	height: 100vh;
+	background-color: #001529;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+.rightContent {
+	height: 100vh;
+	background-color: #ececec;
+	color: #ffffff;
+}
+.leftNav .title {
+	height: 8vh;
+	line-height: 8vh;
+	background-color: #000c17;
+	text-decoration: none;
+}
+.leftNav .title:hover {
+	background-color: green;
+}
+.leftNav .item {
+	height: 6vh;
+	line-height: 6vh;
+	text-decoration: none;
+}
+.leftNav .item:hover {
+	background-color: green;
+}
+
+.rightContent .title {
+	height: 8vh;
+	line-height: 8vh;
+	padding-left: 30px;
+	background-color: #001529;
+}
+.contentArea {
+	background-color: #ECECEC;
+	padding: 30px;
+}
