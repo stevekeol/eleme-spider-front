@@ -1,1 +1,1 @@
-# react-redux-generator-template渐进增强的修改模式
+# 配合stevekeol/eleme-spider的前端操作界面
